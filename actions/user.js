@@ -138,6 +138,13 @@ export async function getUserOnboardingStatus() {
     return { isOnboarded: !!user.industry };
   } catch (error) {
     console.error("Error checking onboarding status:", error.message);
+    
+    // Check if it's a database connection error
+    if (error.message && error.message.includes("Can't reach database server")) {
+      // Return a default state or show a specific connection error
+      return { isOnboarded: false, connectionError: true };
+    }
+    
     throw new Error("Failed to check onboarding status");
   }
 }
