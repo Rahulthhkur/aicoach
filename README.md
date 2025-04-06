@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NeuroVoyage AI Career Coach
 
-## Getting Started
+NeuroVoyage AI is an AI-powered career coaching platform built to empower job seekers through smarter preparation, personalized guidance, and real-time insights.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚨 Problem
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Many job seekers struggle with several common challenges in their career journey:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Difficulty finding structured, reliable interview preparation.
+- Struggling to create resumes and cover letters that truly stand out.
+- Lack of personalized guidance aligned with individual goals.
+- Inability to effectively track progress and performance.
+- Missing out on crucial industry updates and insights.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+These gaps often slow down the job search process and hinder individuals from reaching their full potential.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Our Solution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**NeuroVoyage AI Career Coach** addresses these challenges with a powerful suite of features:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ✅ AI-powered mock interview question generator tailored to your field.
+- ✅ Smart resume and cover letter builder with Markdown support and PDF export.
+- ✅ Insightful dashboards and quizzes to track your performance and growth.
+- ✅ Weekly industry insights delivered using **Gemini AI** and **Inngest**.
+- ✅ Smooth onboarding and intuitive, goal-based user journey.
 
-## Deploy on Vercel
+With these tools, NeuroVoyage AI helps users **prepare smarter**, **improve faster**, and **move closer to their dream roles**—all within one unified platform.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Get Started
+
+Ready to transform your job search?  
+Jump into [NeuroVoyage AI](https://neurovoyage.live) and unlock your career potential today!
