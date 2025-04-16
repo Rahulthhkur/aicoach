@@ -79,12 +79,6 @@ const Herosection = () => {
                     </Button>
                     </Link>
                 </div>
-                {/* Removed the duplicate Hire Me button from here as it's now in the popup */}
-                {/* <Link href='/contact'>
-                <Button size='lg' className='px-8 h-14 rounded-xl shadow-lg shadow-gray-800/20 font-medium transition-all duration-300 hover:scale-105' variant='default'>
-                    Hire Me
-                </Button>
-                </Link> */}
             </div>
 
             <div className='hero-image-wrapper mt-10 md:mt-12'>
